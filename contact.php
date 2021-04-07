@@ -126,7 +126,7 @@ an error sending your message. Please try again later.</div>';
 
   <div class="container-fluid" id="banner" align="center">
 
-        <a href="http://yourwebsitename.com">
+        <a href="/accountant-website-template">
         <img alt="accounting-logo" class="logo" src="images/accounting-logo.png"></a>
 
   </div><!--end banner-->
@@ -152,15 +152,15 @@ an error sending your message. Please try again later.</div>';
 
       <ul class="nav navbar-nav">
           
-          <li><a href="http://yourwebsitename.com/accounting-services.html">ACCOUNTING SERVICES</a></li>
+          <li><a href="/accountant-website-template/accounting-services.html">ACCOUNTING SERVICES</a></li>
 
-          <li><a href="http://yourwebsitename.com/accounting-resources.html">RESOURCES</a></li>
+          <li><a href="/accountant-website-template/accounting-resources.html">RESOURCES</a></li>
 
-          <li><a href="http://yourwebsitename.com/blog.html">BLOG</a></li>
+          <li><a href="/accountant-website-template/blog.html">BLOG</a></li>
 
-          <li><a href="http://yourwebsitename.com/about.html">ABOUT</a></li>
+          <li><a href="/accountant-website-template/about.html">ABOUT</a></li>
 
-          <li><a href="http://yourwebsitename.com/contact.php">CONTACT</a></li>
+          <li><a href="/accountant-website-template/contact.php">CONTACT</a></li>
 
       </ul>
 
@@ -280,7 +280,7 @@ an error sending your message. Please try again later.</div>';
 
 <div class="consultation-strip" align="center">
 
-    <p><a href="http://yourwebsitename.com/contact.php">REQUEST A FREE CONSULTATION</a></p>
+    <p><a href="/accountant-website-template/contact.php">REQUEST A FREE CONSULTATION</a></p>
 
   </div><!--end consultation-strip-->
 
@@ -289,17 +289,17 @@ an error sending your message. Please try again later.</div>';
 
     <div id="footer" align="center">
 
-        <a href="http://yourwebsitename.com/about.html">ABOUT</a>
+        <a href="/accountant-website-template/about.html">ABOUT</a>
 
-        <a href="http://yourwebsitename.com/accounting-services.html">ACCOUNTING SERVICES</a> 
+        <a href="/accountant-website-template/accounting-services.html">ACCOUNTING SERVICES</a> 
 
-        <a href="http://yourwebsitename.com/accounting-resources.html">RESOURCES</a> 
+        <a href="/accountant-website-template/accounting-resources.html">RESOURCES</a> 
 
-        <a href="http://yourwebsitename.com/blog.html">BLOG</a> 
+        <a href="/accountant-website-template/blog.html">BLOG</a> 
 
-        <a href="http://yourwebsitename.com/faq.html">FAQ</a> 
+        <a href="/accountant-website-template/faq.html">FAQ</a> 
 
-        <a href="http://yourwebsitename.com/contact.php">CONTACT</a>
+        <a href="/accountant-website-template/contact.php">CONTACT</a>
 
     </div><!--end of footer-->
 
@@ -307,9 +307,9 @@ an error sending your message. Please try again later.</div>';
 
     <div class="footerlinks" align="center">
       
-      <a href="http://yourwebsitename.com/privacy-policy.html" rel="nofollow">Privacy Policy</a> 
+      <a href="/accountant-website-template/privacy-policy.html" rel="nofollow">Privacy Policy</a> 
 
-      <a href="http://yourwebsitename.com/terms-and-conditions.html" rel="nofollow">Terms &amp; Conditions</a>
+      <a href="/accountant-website-template/terms-and-conditions.html" rel="nofollow">Terms &amp; Conditions</a>
 
       <p align="center" class="text-muted copyright">&copy; Your Website/Business 2017</p>
 
